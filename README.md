@@ -2,6 +2,8 @@
 -Sheel Sanghvi
 TASK 1:
   a python program where the input is a string of binary numbers separated by commas and the program returns those binary numbers that are divisible by 5.Run the file named b1.py.
+  ![image](https://user-images.githubusercontent.com/54235546/63537128-a8a60500-c532-11e9-8570-5900cf90271f.png)
+
 TASK 2:
   data from spacexapi has been accessed using python requests and the following data has been displayed in dictionary format:
   flight number, mission date ( in a pretty format ), rocket name and mission patch link.Run the file named b2.py.
