@@ -16,4 +16,5 @@ TASK 2:
 
 ADDITIONAL PROJECT: made tic tac toe 2 player game using python. it serves well for both win and draw. it uses the number pad in keyboard to act as the tic tac toe board where the numbers are the consequent positions. Run the file named tictactoe.py 
 
+![image](https://user-images.githubusercontent.com/54235546/63537772-30d8da00-c534-11e9-8a12-8f6f2e3b2288.png)
 
