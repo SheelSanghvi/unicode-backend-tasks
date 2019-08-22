@@ -18,3 +18,6 @@ ADDITIONAL PROJECT: made tic tac toe 2 player game using python. it serves well 
 
 ![image](https://user-images.githubusercontent.com/54235546/63537772-30d8da00-c534-11e9-8a12-8f6f2e3b2288.png)
 
+![image](https://user-images.githubusercontent.com/54235546/63538098-d0966800-c534-11e9-9263-1fb8e96cfb1f.png)
+
+
