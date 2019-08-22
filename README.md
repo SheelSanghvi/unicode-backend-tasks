@@ -9,5 +9,8 @@ TASK 1:
 TASK 2:
   data from spacexapi has been accessed using python requests and the following data has been displayed in dictionary format:
   flight number, mission date ( in a pretty format ), rocket name and mission patch link.Run the file named b2.py.
+  
+  ![image](https://user-images.githubusercontent.com/54235546/63537437-5ca79000-c533-11e9-9ea6-3961c3b22f52.png)
+
 ADDITIONAL PROJECT: made tic tac toe 2 player game using python. it serves well for both win and draw. it uses the number pad in keyboard to act as the tic tac toe board where the numbers are the consequent positions. Run the file named tictactoe.py 
 
